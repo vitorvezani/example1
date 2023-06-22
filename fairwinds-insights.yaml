@@ -1,8 +1,8 @@
 options:
   organization: acme-co
   setExitCode: false
-  hostname: foo
-  repositoryName: foo
+  hostname: http://host.docker.internal:3000
+  repositoryName: example1
 
 images:
   docker:
